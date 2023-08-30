@@ -1,5 +1,8 @@
 # Infinite Scroll Social Media Feed
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 ![Website Preview](/infinite-scroll-preview.png)
 
 Welcome to the Infinite Scroll project! This is a mobile-responsive website that showcases the popular infinite scroll functionality commonly seen on social media platforms.
