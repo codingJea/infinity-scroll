@@ -1,6 +1,6 @@
 # Infinite Scroll Social Media Feed
 
-![Website Preview](/infinite-scroll-preview.png) <!-- Add a screenshot or preview of your website -->
+![Website Preview](/infinite-scroll-preview.png)
 
 Welcome to the Infinite Scroll project! This is a mobile-responsive website that showcases the popular infinite scroll functionality commonly seen on social media platforms.
 
